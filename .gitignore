@@ -1,0 +1,15 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.vscode/
+uploads/
+# Node dependencies
+node_modules/
+
+# Neo4j data and transactions
+infrastructure/data/
+*.db.*
+
+# Next.js build output
+.next/
