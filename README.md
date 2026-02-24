@@ -17,7 +17,7 @@ The project is structured as a modern, scalable application with clear separatio
 - **Infrastructure (`infrastructure/`)**: Code and configurations for deploying and scaling the platform, likely using containerization (Docker) and orchestration tools.
 - **Data Layer**: A **Neo4j** graph database at its heart, storing nodes (ideas, code files, concepts) and their relationships.
 
-## ✨ Key Features (Inferred)
+## ✨ Key Features 
 
 - **Graph-Based Knowledge Management**: Create and visualize a personal knowledge graph where notes, code, and concepts are interconnected nodes.
 - **Smart Connections**: Leverages AI to suggest links between seemingly unrelated pieces of information, fostering new insights.
